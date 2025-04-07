@@ -1,0 +1,7 @@
+grpcio-status==1.71.0
+ipykernel==6.29.5
+langchain-google-firestore==0.5.0
+langchain-groq==0.3.2
+pip==25.0
+setuptools==75.8.0
+wheel==0.45.1
